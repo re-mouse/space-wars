@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfcff0c11c104669a468671def85a4f0, type: 3}
+  m_Name: SmallShipConfig
+  m_EditorClassIdentifier: 
+  <MaxHealth>k__BackingField:
+    value: 60
+  <MaxShield>k__BackingField:
+    value: 120
+  <ShieldRegenerationPerSecond>k__BackingField:
+    value: 1
+  <ModuleCounts>k__BackingField: 3
+  <CannonCounts>k__BackingField: 2
+  <Speed>k__BackingField:
+    value: 6
+  <Describe>k__BackingField: Big Ship with higher shield, and with extra module

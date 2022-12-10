@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9a903c88a084d39b4afd304c3c4cfa7, type: 3}
+  m_Name: BigCannon
+  m_EditorClassIdentifier: 
+  <Damage>k__BackingField:
+    value: 100
+  <RecoveryTime>k__BackingField:
+    value: 2
+  <Projectile>k__BackingField: {fileID: -2323938803381230208, guid: 7652b10f0736cd446bf41a2e0686e2bc, type: 3}
+  <Describe>k__BackingField: Cannon with a lot of damage, and slowest speed
